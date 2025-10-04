@@ -24,11 +24,14 @@ Perfect for quickly bootstrapping secure, full-stack web apps with email/passwor
 ```bash
 git clone https://github.com/rodzelte/Supabase-Auth-TS.git
 cd Supabase-Auth-TS
+```
 
+```bash
 2️⃣ Install Dependencies
 npm install
+```
 
-
+```bash
 3️⃣ Set Up Supabase
 
 Go to Supabase Dashboard
@@ -41,7 +44,9 @@ Go to Project Settings → API and copy your:
 SUPABASE_URL
 
 SUPABASE_ANON_KEY
+```
 
+```bash
 4️⃣ Create an .env file
 VITE_SUPABASE_URL=https://your-project-id.supabase.co
 VITE_SUPABASE_ANON_KEY=your-anon-key
@@ -98,7 +103,4 @@ Rodzel John Te
 ⭐ License
 
 This project is open-source under the MIT License.
-
----
-
 ```
