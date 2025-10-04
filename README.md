@@ -76,3 +76,4 @@ export default defineConfig([
 >>>>>>> 37ea165 (first commit)
 "# Supabase-Auth-TS" 
 "# Supabase-Auth-TS" 
+"# Supabase-Auth-TS" 
