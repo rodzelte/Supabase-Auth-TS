@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,4 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+>>>>>>> 37ea165 (first commit)
+"# Supabase-Auth-TS" 
 "# Supabase-Auth-TS" 
